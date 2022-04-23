@@ -1,0 +1,28 @@
+﻿<Window x:Class="Kalkulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kalkulator"
+        mc:Ignorable="d"
+        Title="Prosty Kalkulator" Height="245" Width="215">
+    <Grid Margin="0,0,0,0">
+        <TextBox x:Name="Pole" HorizontalAlignment="Center" Margin="0,8,0,0" Text="0" TextWrapping="WrapWithOverflow" TextAlignment="Right" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="PJeden" Content="1" HorizontalAlignment="Left" Margin="15,123,0,0" VerticalAlignment="Top" Width="35" Click="PJeden_Click" Height="30"/>
+        <Button x:Name="PDwa" Content="2" HorizontalAlignment="Left" Margin="60,123,0,0" VerticalAlignment="Top" Width="35" Click="PDwa_Click" Height="30"/>
+        <Button x:Name="PTrzy" Content="3" HorizontalAlignment="Left" Margin="105,123,0,0" VerticalAlignment="Top" Width="35" Click="PTrzy_Click" Height="30"/>
+        <Button x:Name="PCztery" Content="4" HorizontalAlignment="Left" Margin="15,83,0,0" VerticalAlignment="Top" Width="35" Click="PCztery_Click" Height="30"/>
+        <Button x:Name="PPiec" Content="5" HorizontalAlignment="Left" Margin="60,83,0,0" VerticalAlignment="Top" Width="35" Click="PPiec_Click" Height="30"/>
+        <Button x:Name="PSzesc" Content="6" HorizontalAlignment="Left" Margin="105,83,0,0" VerticalAlignment="Top" Width="35" Click="PSzesc_Click" Height="30"/>
+        <Button x:Name="PSiedem" Content="7" HorizontalAlignment="Left" Margin="15,43,0,0" VerticalAlignment="Top" Width="35" Click="PSiedem_Click" Height="30"/>
+        <Button x:Name="POsiem" Content="8" HorizontalAlignment="Left" Margin="60,43,0,0" VerticalAlignment="Top" Width="35" Click="POsiem_Click" Height="30"/>
+        <Button x:Name="PDziewiec" Content="9" HorizontalAlignment="Left" Margin="105,43,0,0" VerticalAlignment="Top" Width="35" Click="PDziewiec_Click" Height="30"/>
+        <Button x:Name="PZero" Content="0" HorizontalAlignment="Left" Margin="15,163,0,0" VerticalAlignment="Top" Width="35" Click="PZero_Click" Height="30" Grid.RowSpan="2"/>
+        <Button x:Name="PUsun" Content="C" HorizontalAlignment="Left" Margin="60,163,0,0" VerticalAlignment="Top" Width="35" Click="PUsun_Click" Height="30" Grid.RowSpan="2"/>
+        <Button x:Name="PRowna" Content="=" HorizontalAlignment="Left" Margin="105,163,0,0" VerticalAlignment="Top" Width="35" Click="PRowna_Click" Height="30" Grid.RowSpan="2"/>
+        <Button x:Name="PPlus" Content="+" HorizontalAlignment="Left" Margin="150,163,0,0" VerticalAlignment="Top" Width="35" Click="PPlus_Click" Height="30" Grid.RowSpan="2"/>
+        <Button x:Name="PMinus" Content="-" HorizontalAlignment="Left" Margin="150,123,0,0" VerticalAlignment="Top" Width="35" Click="PMinus_Click" Height="30"/>
+        <Button x:Name="PMnozenie" Content="*" HorizontalAlignment="Left" Margin="150,83,0,0" VerticalAlignment="Top" Width="35" Click="PMnozenie_Click" Height="30"/>
+        <Button x:Name="PDzielenie" Content="/" HorizontalAlignment="Left" Margin="150,43,0,0" VerticalAlignment="Top" Width="35" Click="PDzielenie_Click" Height="30"/>
+    </Grid>
+</Window>
