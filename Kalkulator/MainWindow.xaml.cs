@@ -189,7 +189,16 @@ namespace Kalkulator
 
         private void Dzialanie(string znak)
         {
-            tempWynik = Convert.ToInt32(stringWynik);
+            try
+            {
+                tempWynik = Convert.ToInt32(stringWynik);
+            }
+            catch (OverflowException e)
+            {
+                Pole.Text = "Liczba jest za duża. Max 32bit";
+                stringWynik = null;
+            }
+
             this.znak = znak;
 
             switch (znak)
