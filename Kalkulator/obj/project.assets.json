@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skodaxo\\Desktop\\WSB\\II ROK\\IV semestr\\Programowanie .NET\\Repo\\Kalkulator\\Kalkulator.csproj",
+      "projectUniqueName": "C:\\Users\\Skodaxo\\Desktop\\WSB\\II ROK\\IV semestr\\Programowanie .NET\\Repo\\WSB_Programowanie.NET\\Kalkulator\\Kalkulator.csproj",
       "projectName": "Kalkulator",
-      "projectPath": "C:\\Users\\Skodaxo\\Desktop\\WSB\\II ROK\\IV semestr\\Programowanie .NET\\Repo\\Kalkulator\\Kalkulator.csproj",
+      "projectPath": "C:\\Users\\Skodaxo\\Desktop\\WSB\\II ROK\\IV semestr\\Programowanie .NET\\Repo\\WSB_Programowanie.NET\\Kalkulator\\Kalkulator.csproj",
       "packagesPath": "C:\\Users\\Skodaxo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skodaxo\\Desktop\\WSB\\II ROK\\IV semestr\\Programowanie .NET\\Repo\\Kalkulator\\obj\\",
+      "outputPath": "C:\\Users\\Skodaxo\\Desktop\\WSB\\II ROK\\IV semestr\\Programowanie .NET\\Repo\\WSB_Programowanie.NET\\Kalkulator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
