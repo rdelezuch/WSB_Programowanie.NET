@@ -1,0 +1,7 @@
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\UnitTestSystemBankowy\PESELWalidator\obj\Debug\PESELWalidator.csproj.CoreCompileInputs.cache
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\UnitTestSystemBankowy\PESELWalidator\obj\Debug\PESELWalidator.csprojAssemblyReference.cache
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\UnitTestSystemBankowy\PESELWalidator\bin\Debug\PESELWalidator.dll.config
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\UnitTestSystemBankowy\PESELWalidator\bin\Debug\PESELWalidator.dll
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\UnitTestSystemBankowy\PESELWalidator\bin\Debug\PESELWalidator.pdb
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\UnitTestSystemBankowy\PESELWalidator\obj\Debug\PESELWalidator.dll
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\UnitTestSystemBankowy\PESELWalidator\obj\Debug\PESELWalidator.pdb
