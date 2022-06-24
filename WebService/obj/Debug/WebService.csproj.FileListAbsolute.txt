@@ -1,0 +1,7 @@
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\WebService\bin\WebService.dll.config
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\WebService\bin\WebService.dll
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\WebService\bin\WebService.pdb
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\WebService\obj\Debug\WebService.csproj.AssemblyReference.cache
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\WebService\obj\Debug\WebService.dll
+C:\Users\Skodaxo\Desktop\WSB\II ROK\IV semestr\Programowanie .NET\Repo\WebService\obj\Debug\WebService.pdb
