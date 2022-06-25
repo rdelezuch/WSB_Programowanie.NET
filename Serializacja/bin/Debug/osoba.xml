@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.wsb.pl/pn/lab4">
+  <imie>Robert</imie>
+  <nazwisko>Nowak</nazwisko>
+  <pesel>12345678910</pesel>
+  <adresy>
+    <adres>
+      <ulica>Kolorowa</ulica>
+      <nrDomu>123</nrDomu>
+      <nrLokalu>1</nrLokalu>
+      <miejscowosc>Gdańsk</miejscowosc>
+    </adres>
+  </adresy>
+</osoba>
